@@ -3,10 +3,11 @@
   "description": "The fuck even happens in Archie Sonic?",
   "artist": "Michael Gallagher, Ken Penders, Karl Bollers, Ian Flynn, Others",
   "author": "Various",
-  "cover": "https://imgchest.com/p/9249kejmvyn",
+  "cover": "https://static.wikia.nocookie.net/sonic/images/7/70/Sonic-252.jpg/revision/latest/scale-to-width-down/1000?cb=20240826232426",
   "chapters": {
     "001": {
       "title": "Sonic Original Miniseries #0",
+      "volume": "",
       "last_updated": "1767189210",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jdoky5"
@@ -14,4 +15,3 @@
     }
   }
 }
-    
