@@ -5,701 +5,9 @@
   "author": "Various",
   "cover": "https://cdn.imgchest.com/files/6f6e2f8f50e7.jpg",
   "chapters": {
-    "001": {
-      "title": "Sonic Original Miniseries #0",
-      "last_updated": "1767189210",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jdoky5"
-      }
-    },
-    "002": {
-      "title": "Sonic Original Miniseries #1",
-      "last_updated": "1767189226",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkw3a4p"
-      }
-    },
-    "003": {
-      "title": "Sonic Original Miniseries #2",
-      "last_updated": "1767189209",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kew5vyn"
-      }
-    },
-    "004": {
-      "title": "Sonic Original Miniseries #3",
-      "last_updated": "1767189207",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawmw4n"
-      }
-    },
-    "005": {
-      "title": "Sonic the Hedgehog #1",
-      "last_updated": "1767189238",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8gd64x"
-      }
-    },
-    "006": {
-      "title": "Sonic the Hedgehog #2",
-      "last_updated": "1767189241",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzkj548"
-      }
-    },
-    "007": {
-      "title": "Sonic the Hedgehog #3",
-      "last_updated": "1767189241",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbxeey2"
-      }
-    },
-    "008": {
-      "title": "Sonic the Hedgehog #4",
-      "last_updated": "1767189253",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5wrqyd"
-      }
-    },
-    "009": {
-      "title": "Sonic the Hedgehog #5",
-      "last_updated": "1767189269",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqg3v7r"
-      }
-    },
-    "010": {
-      "title": "Sonic the Hedgehog #6",
-      "last_updated": "1767189275",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelr2ox4d"
-      }
-    },
-    "011": {
-      "title": "Sonic the Hedgehog #7",
-      "last_updated": "1767189270",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbd237x"
-      }
-    },
-    "012": {
-      "title": "Sonic the Hedgehog #8",
-      "last_updated": "1767189281",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3jko7j"
-      }
-    },
-    "013": {
-      "title": "Sonic the Hedgehog #9",
-      "last_updated": "1767189301",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86wvwp4b"
-      }
-    },
-    "014": {
-      "title": "Sonic the Hedgehog #10",
-      "last_updated": "1767189299",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orprx75"
-      }
-    },
-    "015": {
-      "title": "Sonic the Hedgehog #11",
-      "last_updated": "1767189302",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6lqlgyl"
-      }
-    },
-    "016": {
-      "title": "Sonic the Hedgehog #12",
-      "last_updated": "1767189313",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omwmg4x"
-      }
-    },
-    "017": {
-      "title": "Sonic the Hedgehog #13",
-      "last_updated": "1767189330",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbqbw48"
-      }
-    },
-    "018": {
-      "title": "Sonic the Hedgehog #14",
-      "last_updated": "1767189334",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kewevyn"
-      }
-    },
-    "019": {
-      "title": "Sonic the Hedgehog #15",
-      "last_updated": "1767189329",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawaw4n"
-      }
-    },
-    "020": {
-      "title": "Sonic the Hedgehog #16",
-      "last_updated": "1767189339",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkwka4p"
-      }
-    },
-    "021": {
-      "title": "Sonic the Hedgehog #17",
-      "last_updated": "1767189356",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgmgk78"
-      }
-    },
-    "022": {
-      "title": "Sonic the Hedgehog #18",
-      "last_updated": "1767189355",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojajn4l"
-      }
-    },
-    "023": {
-      "title": "Sonic the Hedgehog - In Your Face!",
-      "last_updated": "1767189377",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzkz548"
-      }
-    },
-    "024": {
-      "title": "Sonic the Hedgehog #19",
-      "last_updated": "1767189371",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbxbey2"
-      }
-    },
-    "025": {
-      "title": "Sonic the Hedgehog #20",
-      "last_updated": "1767189389",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2dmdd4k"
-      }
-    },
-    "026": {
-      "title": "Princess Sally Miniseries #1",
-      "last_updated": "1767196424",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l89gyl"
-      }
-    },
-    "027": {
-      "title": "Princess Sally Miniseries #2",
-      "last_updated": "1767189396",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5w5qyd"
-      }
-    },
-    "028": {
-      "title": "Princess Sally Miniseries #3",
-      "last_updated": "1767196425",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w5np4b"
-      }
-    },
-    "029": {
-      "title": "Sonic the Hedgehog #21",
-      "last_updated": "1767196429",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/a846om5ng4x"
-      }
-    },
-    "030": {
-      "title": "Sonic the Hedgehog #22",
-      "last_updated": "1767196429",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45or5vx75"
-      }
-    },
-    "031": {
-      "title": "Sonic the Hedgehog #23",
-      "last_updated": "1767196453",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb8pm7q"
-      }
-    },
-    "032": {
-      "title": "Sonic the Hedgehog #24",
-      "last_updated": "1767196455",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kepnvyn"
-      }
-    },
-    "033": {
-      "title": "Sonic the Hedgehog #25",
-      "last_updated": "1767189445",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbqpw48"
-      }
-    },
-    "034": {
-      "title": "Sonic & Knuckles",
-      "last_updated": "1767196476",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw82p64x"
-      }
-    },
-    "035": {
-      "title": "Sonic the Hedgehog #26",
-      "last_updated": "1767196470",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzgp548"
-      }
-    },
-    "036": {
-      "title": "Sonic the Hedgehog - Triple Trouble",
-      "last_updated": "1767196501",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbmkk7p"
-      }
-    },
-    "037": {
-      "title": "Sonic the Hedgehog #27",
-      "last_updated": "1767196486",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2d69d4k"
-      }
-    },
-    "038": {
-      "title": "Sonic the Hedgehog #28",
-      "last_updated": "1767196498",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oq5av7r"
-      }
-    },
-    "039": {
-      "title": "Sonic the Hedgehog #29",
-      "last_updated": "1767196509",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbxp37x"
-      }
-    },
-    "040": {
-      "title": "Tails Miniseries #1",
-      "last_updated": "1767189459",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawow4n"
-      }
-    },
-    "041": {
-      "title": "Tails Miniseries #2",
-      "last_updated": "1767196512",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpb82gyj"
-      }
-    },
-    "042": {
-      "title": "Tails Miniseries #3",
-      "last_updated": "1767196527",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w5kp4b"
-      }
-    },
-    "043": {
-      "title": "Sonic the Hedgehog #30",
-      "last_updated": "1767196530",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45or5bx75"
-      }
-    },
-    "044": {
-      "title": "Knuckles' Chaotix",
-      "last_updated": "1767196554",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/a846om5bg4x"
-      }
-    },
-    "045": {
-      "title": "Sonic the Hedgehog #31",
-      "last_updated": "1767196550",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb8am7q"
-      }
-    },
-    "046": {
-      "title": "Sonic the Hedgehog #32",
-      "last_updated": "1767196557",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jkzky5"
-      }
-    },
-    "047": {
-      "title": "Sonic the Hedgehog #33",
-      "last_updated": "1767196566",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnbdm8yo"
-      }
-    },
-    "048": {
-      "title": "Super Sonic vs. Hyper Knuckles",
-      "last_updated": "1767196591",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgvlk78"
-      }
-    },
-    "049": {
-      "title": "Sonic the Hedgehog #34",
-      "last_updated": "1767196585",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2oj8vn4l"
-      }
-    },
-    "050": {
-      "title": "Sonic the Hedgehog #35",
-      "last_updated": "1767211087",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrd934d"
-      }
-    },
-    "051": {
-      "title": "Sonic the Hedgehog #36",
-      "last_updated": "1767211069",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5abbyd"
-      }
-    },
-    "052": {
-      "title": "Knuckles Miniseries #1",
-      "last_updated": "1767211065",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbaqe7p"
-      }
-    },
-    "053": {
-      "title": "Knuckles Miniseries #2",
-      "last_updated": "1767196620",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbx537x"
-      }
-    },
-    "054": {
-      "title": "Knuckles Miniseries #3",
-      "last_updated": "1767211068",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqdmz7r"
-      }
-    },
-    "055": {
-      "title": "Sonic the Hedgehog #37",
-      "last_updated": "1767211099",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3mor7j"
-      }
-    },
-    "056": {
-      "title": "Sonic the Hedgehog #38",
-      "last_updated": "1767196631",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrg5x4d"
-      }
-    },
-    "057": {
-      "title": "Sonic the Hedgehog #39",
-      "last_updated": "1767211105",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86webo4b"
-      }
-    },
-    "058": {
-      "title": "Sonic & Knuckles - Mecha Madness Special",
-      "last_updated": "1767211129",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orma275"
-      }
-    },
-    "059": {
-      "title": "Sonic the Hedgehog #40",
-      "last_updated": "1767211114",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l2z3yl"
-      }
-    },
-    "060": {
-      "title": "Sonic the Hedgehog #41",
-      "last_updated": "1767189596",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbdp37x"
-      }
-    },
-    "061": {
-      "title": "Sonic Quest #1",
-      "last_updated": "1767211126",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbxm948"
-      }
-    },
-    "062": {
-      "title": "Sonic Quest #2",
-      "last_updated": "1767211135",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb9z37q"
-      }
-    },
-    "063": {
-      "title": "Sonic Quest #3",
-      "last_updated": "1767211140",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzav5z4n"
-      }
-    },
-    "064": {
-      "title": "Sonic the Hedgehog #42",
-      "last_updated": "1767211156",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnbax6yo"
-      }
-    },
-    "065": {
-      "title": "Sonic Live! Special",
-      "last_updated": "1767211177",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkga3q78"
-      }
-    },
-    "066": {
-      "title": "Sonic the Hedgehog #43",
-      "last_updated": "1767211163",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojqwj4l"
-      }
-    },
-    "067": {
-      "title": "Sonic the Hedgehog #44",
-      "last_updated": "1767211168",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8aep4x"
-      }
-    },
-    "068": {
-      "title": "Sonic Blast Special",
-      "last_updated": "1767211194",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbanoy2"
-      }
-    },
-    "069": {
-      "title": "Knuckles - The Dark Legion #1",
-      "last_updated": "1767217206",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojo6n4l"
-      }
-    },
-    "070": {
-      "title": "Knuckles - The Dark Legion #2",
-      "last_updated": "1767217205",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8wb64x"
-      }
-    },
-    "071": {
-      "title": "Knuckles - The Dark Legion #3",
-      "last_updated": "1767211197",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbape7p|"
-      }
-    },
-    "072": {
-      "title": "Sonic the Hedgehog #45",
-      "last_updated": "1767211206",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5agbyd|"
-      }
-    },
-    "073": {
-      "title": "Sonic the Hedgehog #46",
-      "last_updated": "1767217209",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzmb548"
-      }
-    },
-    "074": {
-      "title": "Sonic Super Special #1 - Battle Royale",
-      "last_updated": "1767217227",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgkbk78"
-      }
-    },
-    "075": {
-      "title": "Sonic the Hedgehog #47",
-      "last_updated": "1767211227",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbp63yj|"
-      }
-    },
-    "076": {
-      "title": "Sonic the Hedgehog #48",
-      "last_updated": "1767211226",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w6po4b|"
-      }
-    },
-    "077": {
-      "title": "Sonic the Hedgehog #49",
-      "last_updated": "1767211235",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orok275|"
-      }
-    },
-    "078": {
-      "title": "Sonic the Hedgehog #50 Director's Cut",
-      "last_updated": "1767217254",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2d2bd4k"
-      }
-    },
-    "079": {
-      "title": "Sonic the Hedgehog #51",
-      "last_updated": "1767211255",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omorw4x|"
-      }
-    },
-    "080": {
-      "title": "Sonic the Hedgehog #52",
-      "last_updated": "1767217242",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5eoqyd"
-      }
-    },
-    "081": {
-      "title": "Knuckles the Echidna #04",
-      "last_updated": "1767211256",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kekx2yn|"
-      }
-    },
-    "082": {
-      "title": "Knuckles the Echidna #05",
-      "last_updated": "1767217242",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbnok7p"
-      }
-    },
-    "083": {
-      "title": "Knuckles the Echidna #06",
-      "last_updated": "1767217258",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqovv7r"
-      }
-    },
-    "084": {
-      "title": "Sonic Super Special #2- Brave New World",
-      "last_updated": "1767211303",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgkxq78|"
-      }
-    },
-    "085": {
-      "title": "Sonic the Hedgehog #53",
-      "last_updated": "1767217270",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbno37x"
-      }
-    },
-    "086": {
-      "title": "Sonic the Hedgehog #54",
-      "last_updated": "1767211287",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojozj4l|"
-      }
-    },
-    "087": {
-      "title": "Sonic the Hedgehog #55",
-      "last_updated": "1767217276",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrlbx4d"
-      }
-    },
-    "088": {
-      "title": "Knuckles the Echidna #07",
-      "last_updated": "1767211291",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbkgoy2|"
-      }
-    },
-    "089": {
-      "title": "Knuckles the Echidna #08",
-      "last_updated": "1767217284",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbpogyj"
-      }
-    },
-    "090": {
-      "title": "Knuckles the Echidna #09",
-      "last_updated": "1767217287",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3qbo7j"
-      }
-    },
-    "091": {
-      "title": "Sonic the Hedgehog #56",
-      "last_updated": "1767217296",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orolx75"
-      }
-    },
-    "092": {
-      "title": "Sonic Super Special #4 - Retrurn of the King",
-      "last_updated": "1767217321",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l6rgyl"
-      }
-    },
-    "093": {
-      "title": "Sonic Super Special #7 - Image Comics Crossover",
-      "last_updated": "1767217333",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omojg4x"
-      }
-    },
-    "094": {
-      "title": "Sonic the Hedgehog #57",
-      "last_updated": "1767211331",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbp93yj|"
-      }
-    },
-    "095": {
-      "title": "Knuckles the Echidna #10",
-      "last_updated": "1767217317",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbnkw48"
-      }
-    },
-    "096": {
-      "title": "Knuckles the Echidna #11",
-      "last_updated": "1767217324",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnbnwm7q"
-      }
-    },
-    "097": {
-      "title": "Sonic the Hedgehog #58",
-      "last_updated": "1767211342",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orox275|"
-      }
-    },
-    "098": {
-      "title": "Knuckles the Echidna #12",
-      "last_updated": "1767217353",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzaz9w4n"
-      }
-    },
-    "099": {
-      "title": "Sonic the Hedgehog #59",
-      "last_updated": "1767217347",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6j6mky5"
-      }
-    },
     "100": {
       "title": "Sonic the Hedgehog #60",
+      "volume": "",
       "last_updated": "1767211360",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6j6wny5|"
@@ -707,6 +15,7 @@
     },
     "101": {
       "title": "Sonic Super Special #5 - Sonic Kids",
+      "volume": "",
       "last_updated": "1767217378",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnbn28yo"
@@ -714,6 +23,7 @@
     },
     "102": {
       "title": "Knuckles the Echidna #13",
+      "volume": "",
       "last_updated": "1767217361",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkbna4p"
@@ -721,6 +31,7 @@
     },
     "103": {
       "title": "Knuckles the Echidna #14",
+      "volume": "",
       "last_updated": "1767217374",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgk6k78"
@@ -728,6 +39,7 @@
     },
     "104": {
       "title": "Knuckles the Echidna #15",
+      "volume": "",
       "last_updated": "1767217379",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojo9n4l"
@@ -735,6 +47,7 @@
     },
     "105": {
       "title": "Sonic the Hedgehog #61",
+      "volume": "",
       "last_updated": "1767243881",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzaq8b4n"
@@ -742,6 +55,7 @@
     },
     "106": {
       "title": "Sonic the Hedgehog #62",
+      "volume": "",
       "last_updated": "1767243889",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jrqmy5"
@@ -749,6 +63,7 @@
     },
     "107": {
       "title": "Sonic the Hedgehog #63",
+      "volume": "",
       "last_updated": "1767211366",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgkzq78|"
@@ -756,6 +71,7 @@
     },
     "108": {
       "title": "Knuckles the Echidna #16",
+      "volume": "",
       "last_updated": "1767243879",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb53p7q"
@@ -763,6 +79,7 @@
     },
     "109": {
       "title": "Knuckles the Echidna #17",
+      "volume": "",
       "last_updated": "1767243881",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9249kem3byn"
@@ -770,6 +87,7 @@
     },
     "110": {
       "title": "Knuckles the Echidna #18",
+      "volume": "",
       "last_updated": "1767217408",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzma548"
@@ -777,6 +95,7 @@
     },
     "111": {
       "title": "Sonic the Hedgehog #64",
+      "volume": "",
       "last_updated": "1767243918",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbmady2"
@@ -784,6 +103,7 @@
     },
     "112": {
       "title": "Sonic the Hedgehog #65",
+      "volume": "",
       "last_updated": "1767217407",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbkley2"
@@ -791,6 +111,7 @@
     },
     "113": {
       "title": "Sonic the Hedgehog #66",
+      "volume": "",
       "last_updated": "1767243906",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojxqz4l"
@@ -798,6 +119,7 @@
     },
     "114": {
       "title": "Sonic the Hedgehog #67",
+      "volume": "",
       "last_updated": "1767243904",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkg28378"
@@ -805,6 +127,7 @@
     },
     "115": {
       "title": "Knuckles the Echidna #19",
+      "volume": "",
       "last_updated": "1767217423",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbnjk7p"
@@ -812,6 +135,7 @@
     },
     "116": {
       "title": "Knuckles the Echidna #20",
+      "volume": "",
       "last_updated": "1767196775",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw82bp4x|"
@@ -819,6 +143,7 @@
     },
     "117": {
       "title": "Knuckles the Echidna #21",
+      "volume": "",
       "last_updated": "1767243922",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8lax4x"
@@ -826,6 +151,7 @@
     },
     "118": {
       "title": "Sonic the Hedgehog #68",
+      "volume": "",
       "last_updated": "1767217424",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5exqyd"
@@ -833,6 +159,7 @@
     },
     "119": {
       "title": "Sonic Super Special #8 - Sally Moon",
+      "volume": "",
       "last_updated": "1767243958",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2d3qa4k"
@@ -840,6 +167,7 @@
     },
     "120": {
       "title": "Sonic the Hedgehog #69",
+      "volume": "",
       "last_updated": "1767243928",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnb3ax7p"
@@ -847,6 +175,7 @@
     },
     "121": {
       "title": "Sonic the Hedgehog #70",
+      "volume": "",
       "last_updated": "1767243939",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5ja9yd"
@@ -854,6 +183,7 @@
     },
     "122": {
       "title": "Knuckles the Echidna #22",
+      "volume": "",
       "last_updated": "1767243951",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oq2dg7r"
@@ -861,6 +191,7 @@
     },
     "123": {
       "title": "Knuckles the Echidna #23",
+      "volume": "",
       "last_updated": "1767243957",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnb89x7x"
@@ -868,6 +199,7 @@
     },
     "124": {
       "title": "Knuckles the Echidna #24",
+      "volume": "",
       "last_updated": "1767243970",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrwdm4d"
@@ -875,6 +207,7 @@
     },
     "125": {
       "title": "Sonic the Hedgehog #71",
+      "volume": "",
       "last_updated": "1767217460",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbn337x"
@@ -882,6 +215,7 @@
     },
     "126": {
       "title": "Sonic Super Special #9 - Sonic Kids 2",
+      "volume": "",
       "last_updated": "1767243993",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3zmq7j"
@@ -889,6 +223,7 @@
     },
     "127": {
       "title": "Knuckles the Echidna #25",
+      "volume": "",
       "last_updated": "1767243989",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/xny86wre24b"
@@ -896,6 +231,7 @@
     },
     "128": {
       "title": "Sonic the Hedgehog #72",
+      "volume": "",
       "last_updated": "1767217464",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbpzgyj"
@@ -903,6 +239,7 @@
     },
     "129": {
       "title": "Sabrina the Teenage Witch (1997) #28",
+      "volume": "",
       "last_updated": "1767211411",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojop94l|"
@@ -910,6 +247,7 @@
     },
     "130": {
       "title": "Sonic Super Special #10 - Crossover Chaos",
+      "volume": "",
       "last_updated": "1767244004",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orjmn75"
@@ -917,6 +255,7 @@
     },
     "131": {
       "title": "Sonic the Hedgehog #73",
+      "volume": "",
       "last_updated": "1767244000",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6ld2dyl"
@@ -924,6 +263,7 @@
     },
     "132": {
       "title": "Knuckles the Echidna #26",
+      "volume": "",
       "last_updated": "1767320763",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b69gkky5"
@@ -931,6 +271,7 @@
     },
     "133": {
       "title": "Knuckles the Echidna #27",
+      "volume": "",
       "last_updated": "1767320766",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnpgd8yo"
@@ -938,6 +279,7 @@
     },
     "134": {
       "title": "Knuckles the Echidna #28",
+      "volume": "",
       "last_updated": "1767244029",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jrlmy5"
@@ -945,6 +287,7 @@
     },
     "135": {
       "title": "Sonic the Hedgehog #74",
+      "volume": "",
       "last_updated": "1767244036",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkda24p"
@@ -952,6 +295,7 @@
     },
     "136": {
       "title": "Sonic the Hedgehog #75",
+      "volume": "",
       "last_updated": "1767320771",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkpxvk78"
@@ -959,6 +303,7 @@
     },
     "137": {
       "title": "Sonic the Hedgehog #76",
+      "volume": "",
       "last_updated": "1767320765",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/md7obpzqa4p"
@@ -966,6 +311,7 @@
     },
     "138": {
       "title": "Sonic the Hedgehog #77",
+      "volume": "",
       "last_updated": "1767320799",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkpgrey2"
@@ -973,6 +319,7 @@
     },
     "139": {
       "title": "Knuckles the Echidna #29",
+      "volume": "",
       "last_updated": "1767320795",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmpog548"
@@ -980,6 +327,7 @@
     },
     "140": {
       "title": "Sonic Super Special #11 - Girls Rule",
+      "volume": "",
       "last_updated": "1767320812",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lwpz264x"
@@ -987,6 +335,7 @@
     },
     "141": {
       "title": "Sonic the Hedgehog #78",
+      "volume": "",
       "last_updated": "1767320802",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd29l6d4k"
@@ -994,6 +343,7 @@
     },
     "142": {
       "title": "Knuckles the Echidna #30",
+      "volume": "",
       "last_updated": "1767320825",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ej7mepzlqyd"
@@ -1001,6 +351,7 @@
     },
     "143": {
       "title": "Knuckles the Echidna #31",
+      "volume": "",
       "last_updated": "1767320826",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oak5v7r"
@@ -1008,6 +359,7 @@
     },
     "144": {
       "title": "Knuckles the Echidna #32",
+      "volume": "",
       "last_updated": "1767320830",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnpzx37x"
@@ -1015,6 +367,7 @@
     },
     "145": {
       "title": "Sonic Super Special #12 - Turnabout Heroes",
+      "volume": "",
       "last_updated": "1767320860",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelkjgx4d"
@@ -1022,6 +375,7 @@
     },
     "146": {
       "title": "Sonic the Hedgehog #79",
+      "volume": "",
       "last_updated": "1767320865",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/xny86npmp4b"
@@ -1029,6 +383,7 @@
     },
     "147": {
       "title": "Sonic the Hedgehog #80",
+      "volume": "",
       "last_updated": "1767320862",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq9v5o7j"
@@ -1036,6 +391,7 @@
     },
     "148": {
       "title": "Sonic the Hedgehog #81",
+      "volume": "",
       "last_updated": "1767320863",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/bp45ovkqx75"
@@ -1043,6 +399,7 @@
     },
     "149": {
       "title": "Sonic the Hedgehog #82",
+      "volume": "",
       "last_updated": "1767320900",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/a846onrdg4x"
@@ -1050,6 +407,7 @@
     },
     "150": {
       "title": "Sonic Super Special #13 - Sonic Adventure",
+      "volume": "",
       "last_updated": "1767320920",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnpzrw48"
@@ -1057,6 +415,7 @@
     },
     "151": {
       "title": "Sonic the Hedgehog #83",
+      "volume": "",
       "last_updated": "1767196888",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/bp45or5l275|"
@@ -1064,6 +423,7 @@
     },
     "152": {
       "title": "Sonic the Hedgehog #84",
+      "volume": "",
       "last_updated": "1767320899",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9249knx3vyn"
@@ -1071,6 +431,7 @@
     },
     "153": {
       "title": "Sonic the Hedgehog #85",
+      "volume": "",
       "last_updated": "1767320900",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnpx3m7q"
@@ -1078,6 +439,7 @@
     },
     "154": {
       "title": "Sonic the Hedgehog #86",
+      "volume": "",
       "last_updated": "1767320934",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnpg88yo"
@@ -1085,6 +447,7 @@
     },
     "155": {
       "title": "Sonic the Hedgehog #87",
+      "volume": "",
       "last_updated": "1767320930",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2o5z2n4l"
@@ -1092,6 +455,7 @@
     },
     "156": {
       "title": "Sonic Super Special #14 - Sonic Stew",
+      "volume": "",
       "last_updated": "1767320937",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkpx8k78"
@@ -1099,6 +463,7 @@
     },
     "157": {
       "title": "Sonic the Hedgehog #88",
+      "volume": "",
       "last_updated": "1767320958",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkpg2ey2"
@@ -1106,6 +471,7 @@
     },
     "158": {
       "title": "Sonic the Hedgehog #89",
+      "volume": "",
       "last_updated": "1767320960",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd29lrd4k"
@@ -1113,6 +479,7 @@
     },
     "159": {
       "title": "Sonic the Hedgehog #90",
+      "volume": "",
       "last_updated": "1767320964",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnkrlk7p"
@@ -1120,6 +487,7 @@
     },
     "160": {
       "title": "Sonic the Hedgehog #91",
+      "volume": "",
       "last_updated": "1767320968",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oaklv7r"
@@ -1127,6 +495,7 @@
     },
     "161": {
       "title": "Sonic Super Special #15 - Nagus Games",
+      "volume": "",
       "last_updated": "1767321010",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zp26ngyj"
@@ -1134,6 +503,7 @@
     },
     "162": {
       "title": "Sonic the Hedgehog #92",
+      "volume": "",
       "last_updated": "1767320988",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnpzm37x"
@@ -1141,6 +511,7 @@
     },
     "163": {
       "title": "Sonic the Hedgehog #93",
+      "volume": "",
       "last_updated": "1767320993",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelkjmx4d"
@@ -1148,11 +519,803 @@
     },
     "164": {
       "title": "Sonic the Hedgehog #94",
+      "volume": "",
       "last_updated": "1767320999",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq9vwo7j"
       }
+    },
+    "001": {
+      "title": "Sonic Original Miniseries #0",
+      "volume": "",
+      "last_updated": "1767189210",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jdoky5"
+      }
+    },
+    "002": {
+      "title": "Sonic Original Miniseries #1",
+      "volume": "",
+      "last_updated": "1767189226",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkw3a4p"
+      }
+    },
+    "003": {
+      "title": "Sonic Original Miniseries #2",
+      "volume": "",
+      "last_updated": "1767189209",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kew5vyn"
+      }
+    },
+    "004": {
+      "title": "Sonic Original Miniseries #3",
+      "volume": "",
+      "last_updated": "1767189207",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawmw4n"
+      }
+    },
+    "005": {
+      "title": "Sonic the Hedgehog #1",
+      "volume": "",
+      "last_updated": "1767189238",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8gd64x"
+      }
+    },
+    "006": {
+      "title": "Sonic the Hedgehog #2",
+      "volume": "",
+      "last_updated": "1767189241",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzkj548"
+      }
+    },
+    "007": {
+      "title": "Sonic the Hedgehog #3",
+      "volume": "",
+      "last_updated": "1767189241",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbxeey2"
+      }
+    },
+    "008": {
+      "title": "Sonic the Hedgehog #4",
+      "volume": "",
+      "last_updated": "1767189253",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5wrqyd"
+      }
+    },
+    "009": {
+      "title": "Sonic the Hedgehog #5",
+      "volume": "",
+      "last_updated": "1767189269",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqg3v7r"
+      }
+    },
+    "010": {
+      "title": "Sonic the Hedgehog #6",
+      "volume": "",
+      "last_updated": "1767189275",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelr2ox4d"
+      }
+    },
+    "011": {
+      "title": "Sonic the Hedgehog #7",
+      "volume": "",
+      "last_updated": "1767189270",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbd237x"
+      }
+    },
+    "012": {
+      "title": "Sonic the Hedgehog #8",
+      "volume": "",
+      "last_updated": "1767189281",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3jko7j"
+      }
+    },
+    "013": {
+      "title": "Sonic the Hedgehog #9",
+      "volume": "",
+      "last_updated": "1767189301",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86wvwp4b"
+      }
+    },
+    "014": {
+      "title": "Sonic the Hedgehog #10",
+      "volume": "",
+      "last_updated": "1767189299",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orprx75"
+      }
+    },
+    "015": {
+      "title": "Sonic the Hedgehog #11",
+      "volume": "",
+      "last_updated": "1767189302",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6lqlgyl"
+      }
+    },
+    "016": {
+      "title": "Sonic the Hedgehog #12",
+      "volume": "",
+      "last_updated": "1767189313",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omwmg4x"
+      }
+    },
+    "017": {
+      "title": "Sonic the Hedgehog #13",
+      "volume": "",
+      "last_updated": "1767189330",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbqbw48"
+      }
+    },
+    "018": {
+      "title": "Sonic the Hedgehog #14",
+      "volume": "",
+      "last_updated": "1767189334",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kewevyn"
+      }
+    },
+    "019": {
+      "title": "Sonic the Hedgehog #15",
+      "volume": "",
+      "last_updated": "1767189329",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawaw4n"
+      }
+    },
+    "020": {
+      "title": "Sonic the Hedgehog #16",
+      "volume": "",
+      "last_updated": "1767189339",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7obkwka4p"
+      }
+    },
+    "021": {
+      "title": "Sonic the Hedgehog #17",
+      "volume": "",
+      "last_updated": "1767189356",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgmgk78"
+      }
+    },
+    "022": {
+      "title": "Sonic the Hedgehog #18",
+      "volume": "",
+      "last_updated": "1767189355",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojajn4l"
+      }
+    },
+    "023": {
+      "title": "Sonic the Hedgehog - In Your Face!",
+      "volume": "",
+      "last_updated": "1767189377",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzkz548"
+      }
+    },
+    "024": {
+      "title": "Sonic the Hedgehog #19",
+      "volume": "",
+      "last_updated": "1767189371",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbxbey2"
+      }
+    },
+    "025": {
+      "title": "Sonic the Hedgehog #20",
+      "volume": "",
+      "last_updated": "1767189389",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2dmdd4k"
+      }
+    },
+    "026": {
+      "title": "Princess Sally Miniseries #1",
+      "volume": "",
+      "last_updated": "1767196424",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l89gyl"
+      }
+    },
+    "027": {
+      "title": "Princess Sally Miniseries #2",
+      "volume": "",
+      "last_updated": "1767189396",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5w5qyd"
+      }
+    },
+    "028": {
+      "title": "Princess Sally Miniseries #3",
+      "volume": "",
+      "last_updated": "1767196425",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w5np4b"
+      }
+    },
+    "029": {
+      "title": "Sonic the Hedgehog #21",
+      "volume": "",
+      "last_updated": "1767196429",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/a846om5ng4x"
+      }
+    },
+    "030": {
+      "title": "Sonic the Hedgehog #22",
+      "volume": "",
+      "last_updated": "1767196429",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45or5vx75"
+      }
+    },
+    "031": {
+      "title": "Sonic the Hedgehog #23",
+      "volume": "",
+      "last_updated": "1767196453",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb8pm7q"
+      }
+    },
+    "032": {
+      "title": "Sonic the Hedgehog #24",
+      "volume": "",
+      "last_updated": "1767196455",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kepnvyn"
+      }
+    },
+    "033": {
+      "title": "Sonic the Hedgehog #25",
+      "volume": "",
+      "last_updated": "1767189445",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbqpw48"
+      }
+    },
+    "034": {
+      "title": "Sonic & Knuckles",
+      "volume": "",
+      "last_updated": "1767196476",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw82p64x"
+      }
+    },
+    "035": {
+      "title": "Sonic the Hedgehog #26",
+      "volume": "",
+      "last_updated": "1767196470",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzgp548"
+      }
+    },
+    "036": {
+      "title": "Sonic the Hedgehog - Triple Trouble",
+      "volume": "",
+      "last_updated": "1767196501",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbmkk7p"
+      }
+    },
+    "037": {
+      "title": "Sonic the Hedgehog #27",
+      "volume": "",
+      "last_updated": "1767196486",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2d69d4k"
+      }
+    },
+    "038": {
+      "title": "Sonic the Hedgehog #28",
+      "volume": "",
+      "last_updated": "1767196498",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oq5av7r"
+      }
+    },
+    "039": {
+      "title": "Sonic the Hedgehog #29",
+      "volume": "",
+      "last_updated": "1767196509",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbxp37x"
+      }
+    },
+    "040": {
+      "title": "Tails Miniseries #1",
+      "volume": "",
+      "last_updated": "1767189459",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzawow4n"
+      }
+    },
+    "041": {
+      "title": "Tails Miniseries #2",
+      "volume": "",
+      "last_updated": "1767196512",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpb82gyj"
+      }
+    },
+    "042": {
+      "title": "Tails Miniseries #3",
+      "volume": "",
+      "last_updated": "1767196527",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w5kp4b"
+      }
+    },
+    "043": {
+      "title": "Sonic the Hedgehog #30",
+      "volume": "",
+      "last_updated": "1767196530",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45or5bx75"
+      }
+    },
+    "044": {
+      "title": "Knuckles' Chaotix",
+      "volume": "",
+      "last_updated": "1767196554",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/a846om5bg4x"
+      }
+    },
+    "045": {
+      "title": "Sonic the Hedgehog #31",
+      "volume": "",
+      "last_updated": "1767196550",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb8am7q"
+      }
+    },
+    "046": {
+      "title": "Sonic the Hedgehog #32",
+      "volume": "",
+      "last_updated": "1767196557",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6jkzky5"
+      }
+    },
+    "047": {
+      "title": "Sonic the Hedgehog #33",
+      "volume": "",
+      "last_updated": "1767196566",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnbdm8yo"
+      }
+    },
+    "048": {
+      "title": "Super Sonic vs. Hyper Knuckles",
+      "volume": "",
+      "last_updated": "1767196591",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgvlk78"
+      }
+    },
+    "049": {
+      "title": "Sonic the Hedgehog #34",
+      "volume": "",
+      "last_updated": "1767196585",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2oj8vn4l"
+      }
+    },
+    "050": {
+      "title": "Sonic the Hedgehog #35",
+      "volume": "",
+      "last_updated": "1767211087",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrd934d"
+      }
+    },
+    "051": {
+      "title": "Sonic the Hedgehog #36",
+      "volume": "",
+      "last_updated": "1767211069",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5abbyd"
+      }
+    },
+    "052": {
+      "title": "Knuckles Miniseries #1",
+      "volume": "",
+      "last_updated": "1767211065",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbaqe7p"
+      }
+    },
+    "053": {
+      "title": "Knuckles Miniseries #2",
+      "volume": "",
+      "last_updated": "1767196620",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbx537x"
+      }
+    },
+    "054": {
+      "title": "Knuckles Miniseries #3",
+      "volume": "",
+      "last_updated": "1767211068",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqdmz7r"
+      }
+    },
+    "055": {
+      "title": "Sonic the Hedgehog #37",
+      "volume": "",
+      "last_updated": "1767211099",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3mor7j"
+      }
+    },
+    "056": {
+      "title": "Sonic the Hedgehog #38",
+      "volume": "",
+      "last_updated": "1767196631",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrg5x4d"
+      }
+    },
+    "057": {
+      "title": "Sonic the Hedgehog #39",
+      "volume": "",
+      "last_updated": "1767211105",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86webo4b"
+      }
+    },
+    "058": {
+      "title": "Sonic & Knuckles - Mecha Madness Special",
+      "volume": "",
+      "last_updated": "1767211129",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orma275"
+      }
+    },
+    "059": {
+      "title": "Sonic the Hedgehog #40",
+      "volume": "",
+      "last_updated": "1767211114",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l2z3yl"
+      }
+    },
+    "060": {
+      "title": "Sonic the Hedgehog #41",
+      "volume": "",
+      "last_updated": "1767189596",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbdp37x"
+      }
+    },
+    "061": {
+      "title": "Sonic Quest #1",
+      "volume": "",
+      "last_updated": "1767211126",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbxm948"
+      }
+    },
+    "062": {
+      "title": "Sonic Quest #2",
+      "volume": "",
+      "last_updated": "1767211135",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnb9z37q"
+      }
+    },
+    "063": {
+      "title": "Sonic Quest #3",
+      "volume": "",
+      "last_updated": "1767211140",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzav5z4n"
+      }
+    },
+    "064": {
+      "title": "Sonic the Hedgehog #42",
+      "volume": "",
+      "last_updated": "1767211156",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/dl7pnbax6yo"
+      }
+    },
+    "065": {
+      "title": "Sonic Live! Special",
+      "volume": "",
+      "last_updated": "1767211177",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkga3q78"
+      }
+    },
+    "066": {
+      "title": "Sonic the Hedgehog #43",
+      "volume": "",
+      "last_updated": "1767211163",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojqwj4l"
+      }
+    },
+    "067": {
+      "title": "Sonic the Hedgehog #44",
+      "volume": "",
+      "last_updated": "1767211168",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8aep4x"
+      }
+    },
+    "068": {
+      "title": "Sonic Blast Special",
+      "volume": "",
+      "last_updated": "1767211194",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbanoy2"
+      }
+    },
+    "069": {
+      "title": "Knuckles - The Dark Legion #1",
+      "volume": "",
+      "last_updated": "1767217206",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojo6n4l"
+      }
+    },
+    "070": {
+      "title": "Knuckles - The Dark Legion #2",
+      "volume": "",
+      "last_updated": "1767217205",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lw8wb64x"
+      }
+    },
+    "071": {
+      "title": "Knuckles - The Dark Legion #3",
+      "volume": "",
+      "last_updated": "1767211197",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbape7p|"
+      }
+    },
+    "072": {
+      "title": "Sonic the Hedgehog #45",
+      "volume": "",
+      "last_updated": "1767211206",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5agbyd|"
+      }
+    },
+    "073": {
+      "title": "Sonic the Hedgehog #46",
+      "volume": "",
+      "last_updated": "1767217209",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzmb548"
+      }
+    },
+    "074": {
+      "title": "Sonic Super Special #1 - Battle Royale",
+      "volume": "",
+      "last_updated": "1767217227",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgkbk78"
+      }
+    },
+    "075": {
+      "title": "Sonic the Hedgehog #47",
+      "volume": "",
+      "last_updated": "1767211227",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbp63yj|"
+      }
+    },
+    "076": {
+      "title": "Sonic the Hedgehog #48",
+      "volume": "",
+      "last_updated": "1767211226",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/xny86w6po4b|"
+      }
+    },
+    "077": {
+      "title": "Sonic the Hedgehog #49",
+      "volume": "",
+      "last_updated": "1767211235",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orok275|"
+      }
+    },
+    "078": {
+      "title": "Sonic the Hedgehog #50 Director's Cut",
+      "volume": "",
+      "last_updated": "1767217254",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9ryd2d2bd4k"
+      }
+    },
+    "079": {
+      "title": "Sonic the Hedgehog #51",
+      "volume": "",
+      "last_updated": "1767211255",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omorw4x|"
+      }
+    },
+    "080": {
+      "title": "Sonic the Hedgehog #52",
+      "volume": "",
+      "last_updated": "1767217242",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7me5eoqyd"
+      }
+    },
+    "081": {
+      "title": "Knuckles the Echidna #04",
+      "volume": "",
+      "last_updated": "1767211256",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249kekx2yn|"
+      }
+    },
+    "082": {
+      "title": "Knuckles the Echidna #05",
+      "volume": "",
+      "last_updated": "1767217242",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnbnok7p"
+      }
+    },
+    "083": {
+      "title": "Knuckles the Echidna #06",
+      "volume": "",
+      "last_updated": "1767217258",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqovv7r"
+      }
+    },
+    "084": {
+      "title": "Sonic Super Special #2- Brave New World",
+      "volume": "",
+      "last_updated": "1767211303",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/na7kkgkxq78|"
+      }
+    },
+    "085": {
+      "title": "Sonic the Hedgehog #53",
+      "volume": "",
+      "last_updated": "1767217270",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wnbno37x"
+      }
+    },
+    "086": {
+      "title": "Sonic the Hedgehog #54",
+      "volume": "",
+      "last_updated": "1767211287",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ojozj4l|"
+      }
+    },
+    "087": {
+      "title": "Sonic the Hedgehog #55",
+      "volume": "",
+      "last_updated": "1767217276",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyelrlbx4d"
+      }
+    },
+    "088": {
+      "title": "Knuckles the Echidna #07",
+      "volume": "",
+      "last_updated": "1767211291",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqkbkgoy2|"
+      }
+    },
+    "089": {
+      "title": "Knuckles the Echidna #08",
+      "volume": "",
+      "last_updated": "1767217284",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbpogyj"
+      }
+    },
+    "090": {
+      "title": "Knuckles the Echidna #09",
+      "volume": "",
+      "last_updated": "1767217287",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq3qbo7j"
+      }
+    },
+    "091": {
+      "title": "Sonic the Hedgehog #56",
+      "volume": "",
+      "last_updated": "1767217296",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orolx75"
+      }
+    },
+    "092": {
+      "title": "Sonic Super Special #4 - Retrurn of the King",
+      "volume": "",
+      "last_updated": "1767217321",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/o24a6l6rgyl"
+      }
+    },
+    "093": {
+      "title": "Sonic Super Special #7 - Image Comics Crossover",
+      "volume": "",
+      "last_updated": "1767217333",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/a846omojg4x"
+      }
+    },
+    "094": {
+      "title": "Sonic the Hedgehog #57",
+      "volume": "",
+      "last_updated": "1767211331",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpbp93yj|"
+      }
+    },
+    "095": {
+      "title": "Knuckles the Echidna #10",
+      "volume": "",
+      "last_updated": "1767217317",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/agyvnbnkw48"
+      }
+    },
+    "096": {
+      "title": "Knuckles the Echidna #11",
+      "volume": "",
+      "last_updated": "1767217324",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnbnwm7q"
+      }
+    },
+    "097": {
+      "title": "Sonic the Hedgehog #58",
+      "volume": "",
+      "last_updated": "1767211342",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45orox275|"
+      }
+    },
+    "098": {
+      "title": "Knuckles the Echidna #12",
+      "volume": "",
+      "last_updated": "1767217353",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9p4nzaz9w4n"
+      }
+    },
+    "099": {
+      "title": "Sonic the Hedgehog #59",
+      "volume": "",
+      "last_updated": "1767217347",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ne7b6j6mky5"
+      }
     }
   }
 }
-
