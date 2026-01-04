@@ -1,6 +1,6 @@
 {
-  "title": "Sonic the Hedgehog (Archie Comics)",
-  "description": "The fuck even happens in Archie Sonic? A lot, apparently.\n\nThis is a compilation of basically every single Archie Sonic story, including the main book issues, Knuckles the Echidina, Sonic Universe, mini-series, specials and additional crossovers. Scans were sourced from a mixture of Internet Archive uploads, grabber.zone, tails-kicks-ass scans and [Hollie Taylor's](https://bsky.app/profile/hollietaylor.bsky.social) collection (in particular the remastered/color corrected scans for the first 62ish issues).\n\nOptimal reading order taken from [Thanks Ken Penders](https://thankskenpenders.tumblr.com/readingorder), you should give it a read in case you don't want read every single item here.\n\nIf there's a problem with any of the chapters please create an issue in the Easy Archie Sonic project github: [https://github.com/SkywayOctane/Easy-Archie-Sonic](https://github.com/SkywayOctane/Easy-Archie-Sonic)",
+  "title": "Sonic the Hedgehog (Archie)",
+  "description": "The fuck even happens in Archie Sonic?",
   "artist": "Various",
   "author": "Various",
   "cover": "https://cdn.imgchest.com/files/6f6e2f8f50e7.jpg",
@@ -2596,84 +2596,84 @@
       }
     },
     "371": {
-      "title": "Mega Man #24 - Worlds Collide Part 1",
+      "title": "Mega Man #24",
       "last_updated": "1767474898",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnwgrl7p"
       }
     },
     "372": {
-      "title": "Sonic Universe #51 - Worlds Collide Part 2",
+      "title": "Sonic Universe #51",
       "last_updated": "1767381836",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oalpj7r"
       }
     },
     "373": {
-      "title": "Sonic the Hedgehog #248 - Worlds Collide Part 3",
+      "title": "Sonic the Hedgehog #248",
       "last_updated": "1767474899",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ej7meqmzayd"
       }
     },
     "374": {
-      "title": "Mega Man #25 - Worlds Collide Part 4",
+      "title": "Mega Man #25",
       "last_updated": "1767479209",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/wl7lwjxdq4x"
       }
     },
     "375": {
-      "title": "Sonic Universe #52 - Worlds Collide Part 5",
+      "title": "Sonic Universe #52",
       "last_updated": "1767381877",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/o24a69jg2yl"
       }
     },
     "376": {
-      "title": "Sonic the Hedgehog #249 - Worlds Collide Part 6",
+      "title": "Sonic the Hedgehog #249",
       "last_updated": "1767479249",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ej7meqm5nyd"
       }
     },
     "377": {
-      "title": "Mega Man #26 - Worlds Collide Part 7",
+      "title": "Mega Man #26",
       "last_updated": "1767479244",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73ox9qj7r"
       }
     },
     "378": {
-      "title": "Sonic Universe #53 - Worlds Collide Part 8",
+      "title": "Sonic Universe #53",
       "last_updated": "1767381879",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/a846ondxo4x"
       }
     },
     "379": {
-      "title": "Sonic the Hedgehog #250 - Worlds Collide Part 9",
+      "title": "Sonic the Hedgehog #250",
       "last_updated": "1767479264",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/lqyel53rq4d"
       }
     },
     "380": {
-      "title": "Mega Man #27 - Worlds Collide Part 10",
+      "title": "Mega Man #27",
       "last_updated": "1767479251",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/n87wn56bg7x"
       }
     },
     "381": {
-      "title": "Sonic Universe #54 - Worlds Collide Part 11",
+      "title": "Sonic Universe #54",
       "last_updated": "1767479292",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/bp45obxrq75"
       }
     },
     "382": {
-      "title": "Sonic the Hedgehog #251 - Worlds Collide Part 12",
+      "title": "Sonic the Hedgehog #251",
       "last_updated": "1767479290",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq6d3j7j"
@@ -3023,14 +3023,14 @@
       }
     },
     "432": {
-      "title": "Sonic Universe #76 - Worlds Unite Part 1",
+      "title": "Sonic Universe #76",
       "last_updated": "1767483477",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqk3qvky2"
       }
     },
     "433": {
-      "title": "Sonic Boom #08  - Worlds Unite Part 2",
+      "title": "Sonic Boom #08",
       "last_updated": "1767490059",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrnwdv67p"
@@ -3044,28 +3044,28 @@
       }
     },
     "435": {
-      "title": "Sonic the Hedgehog #273 - Worlds Unite Part 3",
+      "title": "Sonic the Hedgehog #273",
       "last_updated": "1767490053",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqk3dvky2"
       }
     },
     "436": {
-      "title": "Mega Man #50 - Worlds Unite Part 4",
+      "title": "Mega Man #50",
       "last_updated": "1767212467",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/vj4jmzmvx48"
       }
     },
     "437": {
-      "title": "Sonic Universe #77 - Worlds Unite Part 5",
+      "title": "Sonic Universe #77",
       "last_updated": "1767483499",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oxpr37r"
       }
     },
     "438": {
-      "title": "Sonic Boom #09 - Worlds Unite Part 6",
+      "title": "Sonic Boom #09",
       "last_updated": "1767490080",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oxjr37r"
@@ -3079,42 +3079,42 @@
       }
     },
     "440": {
-      "title": "Sonic the Hedgehog #274 - Worlds Unite Part 7",
+      "title": "Sonic the Hedgehog #274",
       "last_updated": "1767490087",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/lqyel5pak4d"
       }
     },
     "441": {
-      "title": "Mega Man #51 - Worlds Unite Part 8",
+      "title": "Mega Man #51",
       "last_updated": "1767212457",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/pg73oqobj7r"
       }
     },
     "442": {
-      "title": "Sonic Universe #78 - Worlds Unite Part 9",
+      "title": "Sonic Universe #78",
       "last_updated": "1767483530",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq6leb7j"
       }
     },
     "443": {
-      "title": "Sonic Boom #10 - Worlds Unite Part 10",
+      "title": "Sonic Boom #10",
       "last_updated": "1767490092",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpvkdvyj"
       }
     },
     "444": {
-      "title": "Sonic the Hedgehog #275 - Worlds Unite Part 11",
+      "title": "Sonic the Hedgehog #275",
       "last_updated": "1767490114",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnagrk7q"
       }
     },
     "445": {
-      "title": "Mega Man #52 - Worlds Unite Part 12",
+      "title": "Mega Man #52",
       "last_updated": "1767490119",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/9249kbjwayn"
@@ -3363,6 +3363,55 @@
       "last_updated": "1767494758",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/5xy2ov3e34l"
+      }
+    },
+    "272.5": {
+      "title": "Shadow Saga - Character Insights",
+      "last_updated": "1767566237",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ej7meqja9yd"
+      }
+    },
+    "310.5": {
+      "title": "The Journal of King Maximillion Acorn",
+      "last_updated": "1767566239",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73ox2dg7r"
+      }
+    },
+    "314.5": {
+      "title": "Treasure Team Tango - Character Insights",
+      "last_updated": "1767566242",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/n87wn589x7x"
+      }
+    },
+    "323.5": {
+      "title": "Changing Tempo - Character Insights",
+      "last_updated": "1767566244",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq6zmq7j"
+      }
+    },
+    "300.5": {
+      "title": "Writings From the Iron Dominion Era",
+      "last_updated": "1767566245",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/lqyel5wdm4d"
+      }
+    },
+    "322.5": {
+      "title": "Dark Mobius - The Inside Stories",
+      "last_updated": "1767566250",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/qb4zpvl55yj"
+      }
+    },
+    "335.5": {
+      "title": "Sonic Genesis - Awakenings",
+      "last_updated": "1767566252",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/bp45objmn75"
       }
     }
   }
