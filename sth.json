@@ -2666,24 +2666,24 @@
       }
     },
     "381": {
-      "title": "Sonic the Hedgehog #252",
-      "last_updated": "1767479321",
-      "groups": {
-        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnakbq7q"
-      }
-    },
-    "382": {
       "title": "Sonic Universe #54",
       "last_updated": "1767479292",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/bp45obxrq75"
       }
     },
-    "383": {
+    "382": {
       "title": "Sonic the Hedgehog #251",
       "last_updated": "1767479290",
       "groups": {
         "SkywayOctane": "/proxy/api/imgchest/chapter/qe4gq6d3j7j"
+      }
+    },
+    "383": {
+      "title": "Sonic the Hedgehog #252",
+      "last_updated": "1767479321",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxnakbq7q"
       }
     },
     "384": {
@@ -3417,5 +3417,6 @@
   }
 
 }
+
 
 
